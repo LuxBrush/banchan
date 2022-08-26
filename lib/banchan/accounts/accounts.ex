@@ -1592,4 +1592,8 @@ defmodule Banchan.Accounts do
 
     {:ok, n}
   end
+
+  def new_fn do
+    1
+  end
 end
